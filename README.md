@@ -72,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Syncfusion
 From this we have used calenders, charts , dropdowns,react-grid and many other things. so with the help of this we can make our project more better in the term of visualising data.
+
+
+### npm install --legacy-peer-deps
+This command is used to install the dependencies.
+so with the help of this we can install the dependencies in our project.
