@@ -77,3 +77,5 @@ From this we have used calenders, charts , dropdowns,react-grid and many other t
 ### npm install --legacy-peer-deps
 This command is used to install the dependencies.
 so with the help of this we can install the dependencies in our project.
+
+### Tailwindcss used
